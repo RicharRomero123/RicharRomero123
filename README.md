@@ -17,10 +17,10 @@ Como ingeniero de software, disfruto enfrentar nuevos desafíos y buscar solucio
 
 Si estás interesado en colaborar en proyectos emocionantes o tienes alguna pregunta, no dudes en ponerse en contacto conmigo. Estoy abierto a oportunidades de trabajo, colaboraciones y discusiones relacionadas con el desarrollo de software.
 
-- Correo Electrónico: richar.romero.romero@gmail.com ✉️
-- LinkedIn: https://www.linkedin.com/in/richar-varoni-romero-cacha-356b88243/ 💡
-- Facebook Page:https://www.facebook.com/programacion.upc  📱
-- YouTube: https://www.youtube.com/channel/UCNcPySB1H_0YOpdCRHQejNg 📌
+- ✉️ Correo Electrónico: richar.romero.romero@gmail.com 
+- 💡 LinkedIn: https://www.linkedin.com/in/richar-varoni-romero-cacha-356b88243/ 
+- 📱 Facebook Page:https://www.facebook.com/programacion.upc 
+- 📌 YouTube: https://www.youtube.com/channel/UCNcPySB1H_0YOpdCRHQejNg 
 
 ¡Espero tener la oportunidad de trabajar juntos y seguir creciendo como ingeniero de software!
 
