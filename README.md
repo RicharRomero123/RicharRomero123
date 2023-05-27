@@ -1,10 +1,20 @@
-- 👋 Hi, I’m @RicharRomero123
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Presentación - Ingeniero de Software Full Stack
+Icono Ingeniero de Software
 
-<!---
-RicharRomero123/RicharRomero123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+¡Hola! Soy un ingeniero de software apasionado por el desarrollo y el aprendizaje continuo. Me especializo en el desarrollo full stack, lo que significa que puedo trabajar tanto en el lado del cliente como en el lado del servidor para crear aplicaciones web completas.
+
+Habilidades y Tecnologías
+Lenguajes de Programación: C++, Python, JavaScript, Java
+Bases de Datos: MySQL, SQL, MongoDB
+Frameworks y Librerías: Angular, Vue.js
+Otros: Git, HTML, CSS
+Acerca de mí
+Como ingeniero de software, disfruto enfrentar nuevos desafíos y buscar soluciones innovadoras. Me apasiona el desarrollo de software de alta calidad y el diseño de arquitecturas escalables. Estoy constantemente actualizándome y aprendiendo nuevas tecnologías para mejorar mis habilidades y mantenerme al tanto de las últimas tendencias en el campo de la ingeniería de software.
+
+Contacto
+Si estás interesado en colaborar en proyectos emocionantes o tienes alguna pregunta, no dudes en ponerse en contacto conmigo. Estoy abierto a oportunidades de trabajo, colaboraciones y discusiones relacionadas con el desarrollo de software.
+
+Correo Electrónico: tuemail@example.com
+LinkedIn: Tu Perfil de LinkedIn
+GitHub: Tu Perfil de GitHub
+¡Espero tener la oportunidad de trabajar juntos y seguir creciendo como ingeniero de software!
