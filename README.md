@@ -13,18 +13,20 @@
         <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
-        <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-        <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg" title="Git" **alt="Git" width="40" height="40"/>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain.svg" title="Git" **alt="Git" width="40" height="40"/>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" **alt="Git" width="40" height="40"/>
         <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain.svg" title="Git" **alt="Git" width="40" height="40"/>
         <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Git" **alt="Git" width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" title="Git" **alt="Git" width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" title="Git" **alt="Git" width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Git" **alt="Git" width="40" height="40"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Git" **alt="Git" width="40" height="40"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Git" **alt="Git" width="40" height="40"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Git" **alt="Git" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="Git" **alt="Git" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="Git" **alt="Git" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" title="Git" **alt="Git" width="40" height="40"/>
+            <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" title="Git" **alt="Git" width="40" height="40"/>
+            <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" title="Git" **alt="Git" width="40" height="40"/>
+            <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="Git" **alt="Git" width="40" height="40"/>
+            <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" title="Git" **alt="Git" width="40" height="40"/>
+
       </div>
       </div>
 
