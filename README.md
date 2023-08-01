@@ -8,26 +8,60 @@
 ## Skills and Technologies 💻
 <div class="iconos" style="text-align: center;">
 <div>
+        <a href="https://lenguajehtml.com/">
         <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+         </a>
+          <a href="https://lenguajecss.com/">   
         <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+             </a>
+         <a href="https://www.javascript.com/">
         <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+              </a>
+         <a href="https://www.typescriptlang.org/">
         <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" title="Git" **alt="Git" width="40" height="40"/>
+              </a>
+         <a href="https://es.react.dev/">
         <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-     <a href="https://angular.io/">
+              </a>
+        <a href="https://angular.io/">
         <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" title="Git" **alt="Git" width="40" height="40"/>
          </a>
+         <a href="https://vuejs.org/">
         <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" title="Git" **alt="Git" width="40" height="40"/>
+              </a>
+         <a href="https://spring.io/">
         <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" title="Git" **alt="Git" width="40" height="40"/>
+              </a>
+         <a href="https://git-scm.com/">
         <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" **alt="Git" width="40" height="40"/>
+              </a>
+         <a href="https://www.mysql.com/">
         <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain.svg" title="Git" **alt="Git" width="40" height="40"/>
+              </a>
+         <a href="https://www.postgresql.org/">
         <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="Git" **alt="Git" width="40" height="40"/>
+              </a>
+         <a href="https://www.mongodb.com/">
         <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="Git" **alt="Git" width="40" height="40"/>
+              </a>
+         <a href="https://www.python.org/">
         <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Git" **alt="Git" width="40" height="40"/>
+              </a>
+         <a href="https://learn.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/">
         <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="Git" **alt="Git" width="40" height="40"/>
+              </a>
+         <a href="https://www.java.com/es/">
         <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Git" **alt="Git" width="40" height="40"/>
+              </a>
+         <a href="https://angular.io/">
         <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" title="Git" **alt="Git" width="40" height="40"/>
+              </a>
+         <a href="https://angular.io/">
         <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" title="Git" **alt="Git" width="40" height="40"/>
+              </a>
+         <a href="https://developer.android.com/?hl=es-419">
         <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
+              </a>
       </div>
       </div>
 
