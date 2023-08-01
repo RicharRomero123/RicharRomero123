@@ -30,14 +30,24 @@
 
 Como ingeniero de software, disfruto enfrentar nuevos desafíos y buscar soluciones innovadoras. Me apasiona el desarrollo de software de alta calidad y el diseño de arquitecturas escalables. Estoy constantemente actualizándome y aprendiendo nuevas tecnologías para mejorar mis habilidades y mantenerme al tanto de las últimas tendencias en el campo de la ingeniería de software.
 
-## Contacto
 
-Si estás interesado en colaborar en proyectos emocionantes o tienes alguna pregunta, no dudes en ponerse en contacto conmigo. Estoy abierto a oportunidades de trabajo, colaboraciones y discusiones relacionadas con el desarrollo de software.
 
-- ✉️ Correo Electrónico: richar.romero.romero@gmail.com 
-- 💡 LinkedIn: https://www.linkedin.com/in/richar-varoni-romero-cacha-356b88243/ 
-- 📱 Facebook Page:https://www.facebook.com/programacion.upc 
-- 📌 YouTube: https://www.youtube.com/channel/UCNcPySB1H_0YOpdCRHQejNg 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=RicharRomero123&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=RicharRomero123&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=RicharRomero123&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-¡Espero tener la oportunidad de trabajar juntos y seguir creciendo como ingeniero de software!
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=RicharRomero123&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=RicharRomero123&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+
+[![](https://visitcount.itsvg.in/api?id=RicharRomero123&icon=0&color=0)](https://visitcount.itsvg.in)
+
+
 
