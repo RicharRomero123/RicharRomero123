@@ -1,8 +1,8 @@
 <div id="header" align="center">
-    <img src="https://cdn.discordapp.com/attachments/1081303981244030997/1081308802671984670/rich.vrc_handsome_man_streamer_programmer_8k_2_53a930fb-f312-4518-b1c5-0ef00d462d20.png" width="200" />
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=1&pause=1000&color=DB436D&background=1FC33300&center=true&multiline=true&repeat=false&width=435&lines=Richar+V.+Romero" alt="Typing SVG" /></a>
     <p align="center">
   <a href="https://github.com/RicharRomero123">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=14DB7C&background=1FC33300&center=true&width=435&lines=Full+Stack+Dev+2%2B+years+of+web+;Experience+in+UX%2FUI+design;+Always+learning!" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=DB436D&background=1FC33300&center=true&width=435&lines=Full+Stack+Dev+2%2B+years+of+web+;Experience+in+UX%2FUI+design;+Always+learning!" alt="Typing SVG" /></a>
 </p><p align="center">
   <a href="https://www.youtube.com/channel/UCNcPySB1H_0YOpdCRHQejNg"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
